@@ -4,13 +4,6 @@ Internship Project – Embedded Systems
 Innov Alliance Tech | Tunis, Tunisia | 02-2023 – 07-2023
 
 ---
-
-# ⚡ Optimized BLE to UART Communication with ESP32
-
-Internship Project – Embedded Systems  
-Innov Alliance Tech | Tunis, Tunisia | 02-2023 – 07-2023
-
----
 - **Final Year Project Report**  
 [Link to PDF report](ESP32_BLE_Report.pdf)  
 
@@ -46,6 +39,29 @@ Two methods were explored: one based on **AT commands** and the other utilizing 
 - **Microcontroller:** ESP32 handles BLE and UART communication.  
 
 ---
+
+## 🏁 Results
+
+The system achieves optimal performance, meeting the following requirements:
+
+- **Security:** Efficient pairing and encryption were implemented using **SMP**, along with secure transmission of passwords in the data, verified by the microcontroller.
+
+- **Data Reliability:** Each frame includes a **CRC (Cyclic Redundancy Check)** to ensure correct reception of data.
+
+- **Responsiveness:** The system provides a fast response time of **25 ms per command** and a file transfer time of **less than 10 minutes**.
+
+- **Connectivity:** BLE communication operates without interference, ensuring **extended range** and a **stable connection**.
+
+---
+
+### 📷 System Demonstration
+
+**1️⃣ Frames Sent by STM32 via UART and ESP32 Response**  
+![STM32 to ESP32 Frames](STM_send_data.jpg)
+
+**2️⃣ Reception of Frames in the Android Application**  
+![Frames Received in Android App](APP_recieve_data.jpg)
+
 
 ## 📚 Useful Documentation
 
