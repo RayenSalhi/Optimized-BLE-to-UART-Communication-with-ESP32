@@ -11,6 +11,10 @@ Internship Project – Embedded Systems
 Innov Alliance Tech | Tunis, Tunisia | 02-2023 – 07-2023
 
 ---
+- **Final Year Project Report**  
+[Link to PDF report](ESP32_BLE_Report.pdf)  
+
+---
 
 ## 🚀 Project Overview
 The present report summarizes the work accomplished within the scope of the final year project aimed at obtaining a national Bachelor’s Degree in Computer Engineering, specializing in Embedded Systems and IoT, at the Faculty of Sciences of Tunis within Innov-Alliance-Tech.  
@@ -57,8 +61,5 @@ Two methods were explored: one based on **AT commands** and the other utilizing 
 - **Final Year Project Report**  
 [Link to PDF report](ESP32_BLE_Report.pdf)  
 
----
 
-## 📁 Suggested Project Structure
-Even without code, you can organize the repo for clarity:
 
