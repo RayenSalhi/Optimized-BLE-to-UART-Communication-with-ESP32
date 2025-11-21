@@ -55,7 +55,7 @@ Two methods were explored: one based on **AT commands** and the other utilizing 
 [https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-reference/peripherals/uart.html](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-reference/peripherals/uart.html)
 
 - **Final Year Project Report**  
-[Link to PDF report](docs/Your_Report.pdf)  
+[Link to PDF report](ESP32_BLE_Report.pdf)  
 
 ---
 
